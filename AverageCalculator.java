@@ -1,5 +1,5 @@
 import java.util.scanner;
-public class Averagecalculator() {
+public class AverageCalculator() {
    public static Void main (String [] args ) {
      scanner scanner = new scanner(system.in);
      system.out.println("Enter the value of n");
